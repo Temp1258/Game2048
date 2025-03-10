@@ -13,4 +13,5 @@ If you reach 2048 in any cell, you win. If there are no available moves, the gam
 Project Requirements and Features
 Exception Handling: Handles invalid inputs (e.g., invalid keys).
 Two-File Structure: A main file for running the game, and a separate file containing all the functions.
-GitHub Integration: You can clone or fork this repository, and feel free to adapt or improve upon the code.
+
+Enjoy the game！
